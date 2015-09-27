@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Exproject</string>
+
+    <string name="hello_world">Camera App 8</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_camera">Camera</string>
+    <string name="image_cd_camera">This is a description</string>
+</resources>
